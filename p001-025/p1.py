@@ -1,6 +1,6 @@
 # Project Euler
 # Alex Johnson
-# Day 1: Multiples of 3 and 5
+# Problem 1: Multiples of 3 and 5
 
 total = 0
 for i in range(1000):
