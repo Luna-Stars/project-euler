@@ -8,11 +8,11 @@ Holds project euler solutions. Done in blocks of 25. Each block in a different l
 - [x] ~~Problem 3~~
 - [x] ~~Problem 4~~
 - [x] ~~Problem 5~~
-- [ ] Problem 6
-- [ ] Problem 7
-- [ ] Problem 8
-- [ ] Problem 9
-- [ ] Problem 10
+- [x] ~~Problem 6~~
+- [x] ~~Problem 7~~
+- [x] ~~Problem 8~~
+- [x] ~~Problem 9~~
+- [x] ~~Problem 10~~
 - [ ] Problem 11
 - [ ] Problem 12
 - [ ] Problem 13
