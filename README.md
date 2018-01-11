@@ -3,11 +3,11 @@
 Holds project euler solutions. Done in blocks of 25. Each block in a different language than the last.
 
 ## Problems 1-25 - Python
-- [ ] Problem 1
-- [ ] Problem 2
-- [ ] Problem 3
-- [ ] Problem 4
-- [ ] Problem 5
+- [x] ~~Problem 1~~
+- [x] ~~Problem 2~~
+- [x] ~~Problem 3~~
+- [x] ~~Problem 4~~
+- [x] ~~Problem 5~~
 - [ ] Problem 6
 - [ ] Problem 7
 - [ ] Problem 8
