@@ -24,7 +24,7 @@ Holds project euler solutions. Done in blocks of 25. Each block in a different l
 - [x] ~~Problem 19~~
 - [x] ~~Problem 20~~
 - [x] ~~Problem 21~~
-- [ ] Problem 22
+- [x] ~~Problem 22~~
 - [ ] Problem 23
-- [ ] Problem 24
-- [ ] Problem 25
+- [x] ~~Problem 24~~
+- [x] ~~Problem 25~~
