@@ -1,22 +1,20 @@
 # project-euler
 
-Holds project euler solutions. Done in blocks of 25. Each block in a different language than the last.
+Holds project euler solutions. Done in blocks of 25.
+## Problems 1-25 - All done!
 
-## Problems 1-25 - Python
-- [x] All done!
-
-## Problems 26-50 - C
-- [ ] Problem 26
-- [ ] Problem 27
-- [ ] Problem 28
-- [ ] Problem 29
-- [ ] Problem 30
-- [ ] Problem 31
-- [ ] Problem 32
-- [ ] Problem 33
-- [ ] Problem 34
-- [ ] Problem 35
-- [ ] Problem 36
+## Problems 26-50
+- [x] ~~Problem 26~~
+- [x] ~~Problem 27~~
+- [x] ~~Problem 28~~
+- [x] ~~Problem 29~~
+- [x] ~~Problem 30~~
+- [x] ~~Problem 31~~
+- [x] ~~Problem 32~~
+- [x] ~~Problem 33~~
+- [x] ~~Problem 34~~
+- [x] ~~Problem 35~~
+- [x] ~~Problem 36~~
 - [ ] Problem 37
 - [ ] Problem 38
 - [ ] Problem 39
