@@ -6,8 +6,6 @@ if len(sys.argv) != 2:
     print("Usage: ./run.py <number>")
     sys.exit(1)
 
-sys.path.append("insert_path_to_repo") # TODO insert ur path here
-
 problem_num = int(sys.argv[1])
 problem_set = problem_num // 25
 
