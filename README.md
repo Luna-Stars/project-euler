@@ -15,17 +15,17 @@ Holds project euler solutions. Done in blocks of 25.
 - [x] ~~Problem 34~~
 - [x] ~~Problem 35~~
 - [x] ~~Problem 36~~
-- [ ] Problem 37
-- [ ] Problem 38
-- [ ] Problem 39
-- [ ] Problem 40
-- [ ] Problem 41
-- [ ] Problem 42
-- [ ] Problem 43
-- [ ] Problem 44
-- [ ] Problem 45
-- [ ] Problem 46
+- [x] ~~Problem 37~~
+- [x] ~~Problem 38~~
+- [x] ~~Problem 39~~
+- [x] ~~Problem 40~~
+- [x] ~~Problem 41~~
+- [x] ~~Problem 42~~
+- [x] ~~Problem 43~~
+- [x] ~~Problem 44~~
+- [x] ~~Problem 45~~
+- [x] ~~Problem 46~~
 - [ ] Problem 47
-- [ ] Problem 48
+- [x] ~~Problem 48~~
 - [ ] Problem 49
 - [ ] Problem 50
