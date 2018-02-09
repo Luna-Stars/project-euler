@@ -27,5 +27,5 @@ Holds project euler solutions. Done in blocks of 25.
 - [x] ~~Problem 46~~
 - [ ] Problem 47
 - [x] ~~Problem 48~~
-- [ ] Problem 49
-- [ ] Problem 50
+- [x] ~~Problem 49~~
+- [x] ~~Problem 50~~
