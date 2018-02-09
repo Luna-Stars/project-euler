@@ -3,29 +3,31 @@
 Holds project euler solutions. Done in blocks of 25.
 ## Problems 1-25 - All done!
 
-## Problems 26-50
-- [x] ~~Problem 26~~
-- [x] ~~Problem 27~~
-- [x] ~~Problem 28~~
-- [x] ~~Problem 29~~
-- [x] ~~Problem 30~~
-- [x] ~~Problem 31~~
-- [x] ~~Problem 32~~
-- [x] ~~Problem 33~~
-- [x] ~~Problem 34~~
-- [x] ~~Problem 35~~
-- [x] ~~Problem 36~~
-- [x] ~~Problem 37~~
-- [x] ~~Problem 38~~
-- [x] ~~Problem 39~~
-- [x] ~~Problem 40~~
-- [x] ~~Problem 41~~
-- [x] ~~Problem 42~~
-- [x] ~~Problem 43~~
-- [x] ~~Problem 44~~
-- [x] ~~Problem 45~~
-- [x] ~~Problem 46~~
-- [ ] Problem 47
-- [x] ~~Problem 48~~
-- [x] ~~Problem 49~~
-- [x] ~~Problem 50~~
+## Problems 26-50 - All done!
+
+## Problems 51-75
+- [ ] Problem 51
+- [ ] Problem 52
+- [ ] Problem 53
+- [ ] Problem 54
+- [ ] Problem 55
+- [ ] Problem 56
+- [ ] Problem 57
+- [ ] Problem 58
+- [ ] Problem 59
+- [ ] Problem 60
+- [ ] Problem 61
+- [ ] Problem 62
+- [ ] Problem 63
+- [ ] Problem 64
+- [ ] Problem 65
+- [ ] Problem 66
+- [ ] Problem 67
+- [ ] Problem 68
+- [ ] Problem 69
+- [ ] Problem 70
+- [ ] Problem 71
+- [ ] Problem 72
+- [ ] Problem 73
+- [ ] Problem 74
+- [ ] Problem 75
